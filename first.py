@@ -1,2 +1,3 @@
 def home():
-    print("this is")
+    x="this is"
+    print x
